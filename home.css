@@ -1,0 +1,83 @@
+#container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#p1{
+    font-size: 90px;
+}
+#p2{
+    font-size: 90px;
+}
+#p3{
+    font-size: 90px;
+}
+.p4{
+    font-size: 70px;
+}
+#container2{
+    text-align: center;
+}
+#btn1{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+    transition: all 2s ease-in-out;
+}
+#btn1:hover{
+    color: black;
+    background-color: white;
+    border:5px solid black;
+    cursor: pointer;
+}
+#btn2{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+    transition: all 2s ease-in-out;
+}
+#btn2:hover{
+    color: black;
+    background-color: white;
+    border:5px solid black;
+    cursor: pointer;
+}
+#btn3{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+    transition: all 2s ease-in-out;
+}
+#btn3:hover{
+    color: black;
+    background-color: white;
+    border:5px solid black;
+    cursor: pointer;
+}
+
+#container3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.p5{
+    color: white;
+    background-color: black;  
+    font-size: 35px;
+    margin-top: 10px;  
+    width: 400px;
+    text-align: center; 
+}
